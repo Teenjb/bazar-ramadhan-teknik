@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bazar-ramadhan-teknik/static/css/main.9ef2647e.css",
-    "main.js": "/bazar-ramadhan-teknik/static/js/main.89b0deb6.js",
+    "main.js": "/bazar-ramadhan-teknik/static/js/main.e24a7a75.js",
     "static/js/787.5e6b39f4.chunk.js": "/bazar-ramadhan-teknik/static/js/787.5e6b39f4.chunk.js",
     "index.html": "/bazar-ramadhan-teknik/index.html",
     "main.9ef2647e.css.map": "/bazar-ramadhan-teknik/static/css/main.9ef2647e.css.map",
-    "main.89b0deb6.js.map": "/bazar-ramadhan-teknik/static/js/main.89b0deb6.js.map",
+    "main.e24a7a75.js.map": "/bazar-ramadhan-teknik/static/js/main.e24a7a75.js.map",
     "787.5e6b39f4.chunk.js.map": "/bazar-ramadhan-teknik/static/js/787.5e6b39f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ef2647e.css",
-    "static/js/main.89b0deb6.js"
+    "static/js/main.e24a7a75.js"
   ]
 }
